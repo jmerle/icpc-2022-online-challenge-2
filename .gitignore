@@ -216,5 +216,7 @@ cython_debug/
 # End of https://www.toptal.com/developers/gitignore/api/c++,cmake,python
 
 # Generated files
-results/output
-results/overview.html
+results/
+
+# Input files
+!scripts/input/*
